@@ -1,0 +1,2 @@
+A quick guide to accessing the files - 
+All .csv files are the datasets downloaded from the internet. All .ipynb files are the code files. A particular .ipynb file has a coresponding .csv file of the same name which can be helpful while understanding the project.
